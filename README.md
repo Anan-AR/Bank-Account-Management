@@ -1,2 +1,1 @@
-# Simple_calc
-Simple calculator using java loops and conditions
+A simple Java console-based banking application that simulates basic account operations. This project demonstrates the use of object-oriented programming concepts such as classes, methods, and encapsulation, along with control structures like loops and switch statements.
